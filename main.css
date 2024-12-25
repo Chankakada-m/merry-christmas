@@ -87,7 +87,7 @@
 }
 .w {
   display: inline-block;
-  font-size: 25px;
+  font-size: 20px;
   padding-top: 30px;
 }
 .w::before {
