@@ -10,6 +10,20 @@
   --dark-color: #000;
   --gradient-bg1: linear-gradient(-45deg, #f5e82e, #6bf0ff);
 }
+.img1 {
+  padding-top: 20%;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  display: block;
+  justify-content: center;
+  left: 50%;
+  transform: translateX(-50%);
+  position: fixed;
+  rotate: -10deg;
+  min-height: 250px;
+  max-height: 250px;
+  z-index: 4;
+}
 
 .fl {
   display: flex;
