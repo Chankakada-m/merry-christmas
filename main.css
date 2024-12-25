@@ -73,7 +73,7 @@
 }
 .w {
   display: inline-block;
-  font-size: 50px;
+  font-size: 25px;
   padding-top: 30px;
 }
 .w::before {
